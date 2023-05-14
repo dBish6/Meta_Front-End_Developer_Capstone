@@ -9,3 +9,6 @@ Please note that I have chosen not to include the code in this repository. Unfor
 - Implement a booking page with a controlled form compoenent utilizing the useReducer hook with proper form vailation.
 - Create unit tests for the booking form and associated functions with the React Testing Library and Jest.
 - Save the form data to Local storage.
+<br />
+
+_[Link to the course.](https://www.coursera.org/professional-certificates/meta-front-end-developer)_
